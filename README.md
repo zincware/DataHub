@@ -77,11 +77,10 @@ NaCl trajectory with positions
 - n_species: 2
 - n_configurations: 
 
+### Ar.extxyz.gz
 
+Ar trajectory for use in MLSuite examples / tests
 
-
-
-
-
-
-
+- n_atoms: 108
+- n_species: 1
+- n_configurations: 
