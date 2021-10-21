@@ -1,0 +1,11 @@
+description: >
+  This is a Lammps Simulation for NaCl
+
+simulation:
+  engine: null
+  time_step: null
+  temperature: 900
+
+file:
+  compressed: LiCl_900K.zip
+  raw: LiCl_900K.extxyz
