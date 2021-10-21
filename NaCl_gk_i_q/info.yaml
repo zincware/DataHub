@@ -1,0 +1,11 @@
+description: >
+  This is a Lammps Simulation for NaCl
+
+simulation:
+  engine: null
+  time_step: 0.002
+  temperature: 1400.0
+
+file:
+  compressed: NaCl_gk_i_q.zip
+  raw: NaCl_gk_i_q.lammpstraj
