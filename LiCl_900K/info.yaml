@@ -1,5 +1,5 @@
 description: >
-  This is a Lammps Simulation for NaCl
+  This is a Lammps Simulation for LiCl
 
 simulation:
   engine: null
