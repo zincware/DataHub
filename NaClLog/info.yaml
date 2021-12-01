@@ -1,0 +1,12 @@
+description: >
+  Log file of a lammps simulation. Using thermo log dump.
+  Simulation log contains NPT and NVT logs in a single file
+
+simulation:
+  engine: Lammps
+  time_step: 0.001
+  temperature: 1100
+
+file:
+  compressed: NaClLog.zip
+  raw: NaCl.log
