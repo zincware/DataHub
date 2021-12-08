@@ -1,0 +1,8 @@
+description: >
+  This is a gromacs simulation with a traj and a topol file
+
+file:
+  compressed: GromacsTest.zip
+  raw: 
+    - top.gro
+    - traj.xtc
