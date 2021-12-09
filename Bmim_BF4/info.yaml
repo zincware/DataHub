@@ -1,0 +1,11 @@
+description: >
+  This is a Lammps Simulation for Bmim-BF4
+
+simulation:
+  engine: null
+  time_step: null
+  temperature: 303
+
+file:
+  compressed: bmim_bf4.zip
+  raw: bmim_bf4.lammps_traj
