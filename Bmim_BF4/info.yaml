@@ -8,4 +8,4 @@ simulation:
 
 file:
   compressed: bmim_bf4.zip
-  raw: bmim_bf4.lammps_traj
+  raw: bmim_bf4.lammpstraj
