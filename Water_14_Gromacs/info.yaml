@@ -1,0 +1,9 @@
+description: >
+  This is a gromacs simulation of 14 water molecules with a traj and a topol file
+
+file:
+  compressed: WaterSimulation.zip
+  raw:
+    - standard_topol.gro
+    - ligand_topol.gro
+    - traj.xtc
