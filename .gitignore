@@ -1,2 +1,6 @@
 raw/
 .idea
+*.lammpstraj
+*.xyz
+*.xtc
+*.gro
