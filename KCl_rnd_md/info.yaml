@@ -1,0 +1,7 @@
+description: >
+  1000 atom MD simulations of molten KCl using an ML potential.
+
+file:
+  compressed: RND_KCl.zip
+  raw:
+    - KCl.lammpstraj

@@ -1,0 +1,7 @@
+description: >
+  1000 atom MD simulations of molten NaCl using an ML potential.
+
+file:
+  compressed: RND_NaCl.zip
+  raw:
+    - NaCl.lammpstraj
