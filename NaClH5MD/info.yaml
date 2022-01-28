@@ -3,5 +3,5 @@ comment: |
   and 1000 particles for each.
 
 file:
-  compressed: lammps_npt.zip.zip
+  compressed: lammps_npt.zip
   raw: lammps_npt.h5
